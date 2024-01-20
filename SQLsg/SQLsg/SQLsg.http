@@ -1,6 +1,0 @@
-@SQLsg_HostAddress = http://localhost:5186
-
-GET {{SQLsg_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
